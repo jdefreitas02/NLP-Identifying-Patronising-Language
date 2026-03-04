@@ -10,6 +10,10 @@ The primary objective is to classify whether a given text sequence contains PCL 
 * **`test.txt`**: Contains the final binary predictions (0 or 1, one per line) for the official blind test set.
 
 ---
+## Model Weights Download
+Because the final ensemble model weights exceed GitHub's file size limits (~6 GB total), they are hosted externally on Google Drive.
+You can download the zipped model weights directly here: https://drive.google.com/file/d/1tUqz5mQ9lC5q8hCF4xXGXhVmdmK_18vk/view?usp=sharing
+
 
 ## The Primary Approach (Best Model)
 
