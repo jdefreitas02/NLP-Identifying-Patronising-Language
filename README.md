@@ -5,7 +5,7 @@ This repository contains the codebase for detecting Patronizing and Condescendin
 The primary objective is to classify whether a given text sequence contains PCL (Class 1) or does not contain PCL (Class 0), focusing heavily on linguistic subtlety and class imbalance.
 
 ## Final Submission Files
-* **`BestModel/`**: This directory contains the final compiled model architecture used for the official evaluation.
+* **`BestModel/`**: This directory contains the final model notebook used for the official evaluation.
 * **`dev.txt`**: Contains the final binary predictions (0 or 1, one per line) for the official development/validation set.
 * **`test.txt`**: Contains the final binary predictions (0 or 1, one per line) for the official blind test set.
 
